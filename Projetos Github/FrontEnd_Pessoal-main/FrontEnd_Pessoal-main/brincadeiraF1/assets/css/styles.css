@@ -1,0 +1,59 @@
+@font-face{
+    font-family:"formula1-display-bold-bold";
+    src:url("https://candyfonts.com/wp-data/2018/10/26/11542/Formula1-Bold_web_0.ttf") format("woff"),
+    url("https://candyfonts.com/wp-data/2018/10/26/11542/Formula1-Bold_web_0.ttf") format("opentype"),
+    url("https://candyfonts.com/wp-data/2018/10/26/11542/Formula1-Bold_web_0.ttf") format("truetype");
+}
+
+body{
+    background-image: url(../images/bandeiraAz.jpeg);
+    opacity: 50;
+    background-size: 1500px;
+    /* background-position: inherit;
+    background-repeat: no-repeat;
+    background-position-y: -1111px;
+    background-position-x: -1022px; */
+}
+
+ol{color: rgb(255, 255, 255);
+    border-radius: 1%;
+    font-size: 20px;
+    margin-left: 10px;
+    background-color: rgba(0, 0, 0, 0.87);
+    font-family:"formula1-display-bold-bold"
+}
+
+h1{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.87);
+    border-radius: 2.5%;
+    font-family:"formula1-display-bold-bold"
+}
+
+p{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    text-align: center;
+    background-color: rgba(0, 0, 0, 0.87); 
+    border-radius: 2.5%;
+    font-family:"formula1-display-bold-bold"
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+}
+#b2{
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.87); 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#a1{
+     color: rgb(169, 58, 216);
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+li{
+ margin-left: 10px;
+}
+a{
+    color: white;
+}

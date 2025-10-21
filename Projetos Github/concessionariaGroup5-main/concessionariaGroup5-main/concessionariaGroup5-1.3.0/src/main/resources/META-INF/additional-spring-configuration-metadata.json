@@ -1,0 +1,32 @@
+{"properties": [
+  {
+    "name": "veiculo.swagger.dev-url",
+    "type": "java.lang.String",
+    "description": "A description for 'veiculo.swagger.dev-url'"
+  },
+  {
+    "name": "spring.mail.propeties.smtp.starttls.required",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.propeties.smtp.starttls.required'"
+  },
+  {
+    "name": "spring.mail.propeties.smtp.auth",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.propeties.smtp.auth'"
+  },
+  {
+    "name": "spring.mail.propeties.smtp.starttls.enable",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.propeties.smtp.starttls.enable'"
+  },
+  {
+    "name": "spring.mail.allow-circular-references",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.allow-circular-references'"
+  },
+  {
+    "name": "spring.mail.allow-circular-references",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mail.allow-circular-references'"
+  }
+]}

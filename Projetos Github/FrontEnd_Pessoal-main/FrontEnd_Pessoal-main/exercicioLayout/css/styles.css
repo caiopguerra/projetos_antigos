@@ -1,0 +1,159 @@
+body {
+    background-image: linear-gradient(to bottom right, rgb(5,187,253), rgb(141,58,218));
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.fundo{
+    border-radius: 3%;
+    background-color: lightgray;
+    padding: 5px;
+    margin: 110px;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 120px;
+    margin-bottom: 180px;
+}
+.principal{
+    border-radius: 3%;
+    border-color: white;
+    background-color: white;
+    padding: 20px;  
+} 
+ #a1{
+    padding: 10px;
+    background-color: white;
+    min-width: 30px;
+    max-width: 50px;
+    min-height: 25px;
+    margin-right: 5px;
+    border-radius: 2px;
+}
+#a2{
+    padding: 10px;
+    background-color: white;
+    border-radius: 2px;
+}
+#a3{
+    padding: 10px;
+    background-color: white;
+    min-width: 30px;
+    max-width: 50px;
+    min-height: 25px;
+    margin-left: 5px;
+    border-radius: 2px;
+} 
+.row{
+    background-color: lightgray;
+    margin: 10px;
+}
+#b1{
+    padding: 10px;
+    background-color: deepskyblue;
+    max-width: 50px;
+    min-height: 25px;
+    margin-right: 5px;
+    border-radius: 2px;
+}
+#b2, #b3, #b4, #b5, #b6{
+    background-color: lightgray;
+    padding: 10px;
+    max-width: 50px;
+    min-height: 25px;
+    margin-right: 5px;
+    border-radius: 2px;
+}
+#rowCC{
+    background-color: white;
+    margin-left: 10px;
+}
+.Destaque{
+    width: 180px;
+    height: 110px;
+     background-color: lightgray;
+    border-radius: 2px; 
+    margin-right: 35px;
+}
+#c1{
+    background-color: lightgray;
+    width: 90px;
+    height: 50px;
+     margin-top: 1px; 
+    border-radius: 2px;
+}
+.paginaSecundaria{
+    background-color: lightgray;
+    width: 90px;
+    height: 50px;
+     margin-top: 25px; 
+    border-radius: 2px;
+}
+.divLegal{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.colunaSecundaria{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 90px;
+    margin-right: 5px;
+}
+.linha{
+    background-color: lightgray;
+    width: 90px;
+    height: 5px;
+    margin: 15px;
+    margin-top: 55px;
+    margin-left: 0px;
+    border-radius: 2px; 
+}
+#rowPB{
+    background-color: white;
+    width: 180px;
+    margin-top: -150px; 
+    margin-bottom: 15px;
+}
+
+#d1, #d2, #d3, #d4{
+    padding: 10px; 
+    background-color: deepskyblue;
+    min-height: 20px; 
+    margin-right: 5px;
+    border-radius: 2px;
+}
+#d5{
+    margin-top: 0;
+    width: 180px;
+    margin-left: 10px;
+}
+#d6, #d7, #d8, #d9, #d10, #d11{
+    margin-top: 0;
+    width: 180px;
+    margin-left: 10px;
+}
+.bolinha1{
+    background-color: red;
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+    margin-right: 3px;
+}
+.bolinha2{
+    background-color:yellow;
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+    margin-right: 3px;
+}
+.bolinha3{
+    background-color:lightseagreen;
+    border-radius: 100%;
+    width: 10px;
+    height: 10px;
+}
+.bolinhas{
+    display: flex;
+    flex-direction: row;
+}
+
