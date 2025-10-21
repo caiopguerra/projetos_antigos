@@ -1,0 +1,15 @@
+127.0.0.1 - - [28/Jul/2022:09:44:19 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:44:22 -0300] "GET /gerenciador/NovaEmpresaCriada.jsp HTTP/1.1" 200 93
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:44:22 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:44:22 -0300] "GET / HTTP/1.1" 404 763
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:44:23 -0300] "GET /favicon.ico HTTP/1.1" 404 774
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:44:45 -0300] "GET /gerenciador/NovaEmpresaCriada.jsp HTTP/1.1" 200 93
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:48:46 -0300] "GET /gerenciador/NovaEmpresaCriada.jsp HTTP/1.1" 200 93
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:49:08 -0300] "GET /gerenciador/NovaEmpresaCriada.jsp HTTP/1.1" 500 2134
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:50:19 -0300] "GET /gerenciador/NovaEmpresaCriada.jsp HTTP/1.1" 200 81
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:52:22 -0300] "GET /gerenciador/NovaEmpresaCriada.jsp HTTP/1.1" 200 79
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:09:52:46 -0300] "GET /gerenciador/NovaEmpresaCriada.jsp HTTP/1.1" 200 79
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:10:45:20 -0300] "GET /gerenciador/formNovaEmpresa.html HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:10:45:41 -0300] "POST /gerenciador/NovaEmpresa HTTP/1.1" 200 67
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:11:21:38 -0300] "POST /gerenciador/NovaEmpresa HTTP/1.1" 200 79
+0:0:0:0:0:0:0:1 - - [28/Jul/2022:11:31:34 -0300] "POST /gerenciador/NovaEmpresa HTTP/1.1" 500 1511
